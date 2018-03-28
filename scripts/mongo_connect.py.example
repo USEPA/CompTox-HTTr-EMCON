@@ -1,0 +1,5 @@
+import pymongo
+
+def mongo_connect(uri):
+    """uri example: mongodb://{username}:{password}@{host}/{database}?authSource={authenticationDatabase}"""
+    return pymongo.MongoClient(uri)

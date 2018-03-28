@@ -1,4 +1,4 @@
-# litminer
+# Entity MeSH Co-occurrence Network (EMCON)
 
 This repository contains the code to generate Entity MeSH Co-occurrence Network (EMCON). 
 

@@ -8,5 +8,6 @@
 !*.example
 mongo_connect.py
 .idea
+!*.sh
 
 
